@@ -4,3 +4,7 @@ GET {{Model1_HostAddress}}/weatherforecast/
 Accept: application/json
 
 ###
+
+GET {{Model1_HostAddress}}/system/api/restaurant/list?pageNum=1&pageSize=3
+
+###
